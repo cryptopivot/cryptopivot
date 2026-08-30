@@ -10,6 +10,7 @@ This account is a shop notebook, not a software portfolio. What lives here is wh
 ## Working repos
 
 - **[parts](https://github.com/cryptopivot/parts)** — replacement parts and jigs we model and print. Files we designed. Credit on anything we did not.
+- **[Voron-Red](https://github.com/cryptopivot/parts/tree/main/printers/voron-red)** — Klipper config for the shop Voron 2.4 (Octopus Pro + Nitehawk, Klicky, LEDs). Starting point, not a drop-in.
 - **[field-ops](https://github.com/cryptopivot/field-ops)** — survey and install notes in our own words. Checklists to build on, not a finished manual.
 - **[FieldRB](https://github.com/cryptopivot/FieldRB)** — personal mirror of [unredbox/Wiki](https://github.com/unredbox/Wiki) / [redbox.wiki](https://redbox.wiki). They wrote it. We keep a copy for field use.
 
